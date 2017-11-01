@@ -704,7 +704,7 @@
                                             <h2>Мы ждём тебя в субботу, 4 ноября, с 20:00 до 06:00. М. Лубянка, ул. Мясницкая, 14</h2><hr>
                                             <p class="desc-text1">После регистрации мы отправим тебе на e-mail приглашение с подробной схемой прохода в наш клуб</p>                                            
                                             <p class="desc-text1"> Количество гостей на вечеринке строго ограничено - 20 девушек и 15 мужчин   
-                                             Поэтому для того, чтобы не оказаться среди тех, кому не хватило места, необходимо зарегистрироваться <b>не позднее, чем за 12 часов</b> до начала мероприятия!</p>                                   
+                                             Дорогая (дорогой)! Пожалуйста, зарегистрируйся <b>не позднее, чем за 4 часа</b> до начала мероприятия!</p>                                   
                            	 </div>
                           	</div>                                                       
                             <section  id="registrationform"  class="description_content">
@@ -729,7 +729,7 @@
                                            <br>
                                            <br>
                                            <br>
-                                           <br>	<button type="submit" id="submit" name="submit" onclick="javascript:window.location='fmen/1pay_MEN.html'"><b>Мужчинам<br>3000 рублей</b></button>  
+                                           <br>	<button type="submit" id="submit" name="submit" onclick="javascript:window.location='fmen/1pay_MEN.html'"><b>Мужчинам<br>2800 рублей</b></button>  
 
                     
                 </div>
@@ -741,19 +741,19 @@
                                            <br>
                                            <br>
                                            <br>
-                                           <br>		<button type="submit" id="submit" name="submit" onclick="javascript:window.location='fmen/1pay_MEN.html'"><b>Парам М+Ж<br>3000 рублей</b></button>                                                 		
+                                           <br>		<button type="submit" id="submit" name="submit" onclick="javascript:window.location='fmen/1pay_MEN.html'"><b>Парам М+Ж<br>2800 рублей</b></button>                                                 		
 
                 </div>
                 <div class="col-md-3">
 															<p class="desc-text">															                                          
                                           	<b>VIP-lounge</b><a href="index.html#VIP">(подробнее)</a>
-                                          	<br>суббота, 28.10 10:00 
+                                          	<br> Среда, 01.11 18:00 
                                           	<br><p>На данный момент</p> 
                                           	свободно: <b>2</b> из <b>2</b>
                                           	<br>
                                           	<br>
                                           	</p>
-                                           <br>		<button type="submit" id="submit" name="submit" onclick="javascript:window.location='fvip/1pay_MEN.html'"><b>VIP-lounge<br>15.000 рублей</b></button>
+                                           <br>		<button type="submit" id="submit" name="submit" onclick="javascript:window.location='fvip/1pay_MEN.html'"><b>VIP-lounge<br> 14700 рублей</b></button>
 
                     
                 </div>
