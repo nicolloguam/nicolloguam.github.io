@@ -2,7 +2,7 @@
 <html>
  <head>
         <meta charset="UTF-8">
-        <title>Регистрация</title>
+        <title>Расслабляющий массаж для двоих</title>
         <link rel="stylesheet" href="../css/normalize.css">
         <link rel="stylesheet" href="../css/main.css" media="screen" type="text/css">
         <link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
@@ -18,24 +18,30 @@
                   
 <body>
 <meta charset="UTF-8">
-		  <section  id="registration"  class="description_content">
-            <div class="reservationrelaxmen background_content">
+		  <section  id="reservationdoublerelax"  class="description_content">
+            <div class="reservationdoublerelax background_content">
+
             </div>
-        </section>    
+        </section>   
         
         				  <section  id="reservationero11"  class="description_content">		       
-                       <h2>Расслабляющий массаж</h2> 
-                    </section>  
-                    
-                    <p class="desc-text1">Расслабляющий массаж в исполнении одной из наших прелестных девушек подарит тебе приятное расслабление,<br> 
-                    прогонит все печали и тревоги, всю усталость рабочей недели и наполнит сексуальной энергией перед ночью, полной страсти!
+                       <h2>Расслабляющий массаж для двоих</h2> 
+                    </section>         
+        
+                    <p class="desc-text1"><br>В этот вечер ты и понравившаяся тебе девушка испытаете самый необычный массаж в вашей жизни! 
+                    Наша милая массажистка нежными прикосновениями своих опытных рук вначале расслабит вас, а затем, используя уникальные 
+                    методики массажа из Непала наполнит вас обоих просто безумной энергией на всю оставшуюся ночь! 
+						<br>
+						<br>А после этого вы сольётесь в страстном порыве такой силы, которой ни один из вас еще не испытывал! Поверь, ни ты, ни твоя подруга 
+						  никогда раньше не переживали подобного! И ты же понимаешь, что, пережив такое невероятное сексуальное путешествие, она 
+						  каждый раз будет вспоминать тебя с наслаждением;)</p>
 							<br><br>							                    
-                    </p>         
-                
+                    </p>          
+                 
  										<div class="right-text">	
 										<p class="desc-text">
  										<b>Схема оплаты точно такая же, как и в прошлый раз</b>																			
-										<br>Чтобы оплатить регистрационный взнос, отправь перевод на сумму <b>1470</b> рублей по нынешнему курсу 
+										<br>Чтобы оплатить регистрационный взнос, отправь перевод на сумму <b>1930</b> рублей по нынешнему курсу 
 										со своего <img src="../images1/payment/btc ico.jpg" height="25" alt="bitcoin">-кошелька на кошелёк <b>1CefNMmX85YpcFt7wXzTo9wp9MgonQ5PRR</b> </p>
 										<br><p class="desc-text">										
 										<br> Если у тебя нет <img src="../images1/payment/btc ico.jpg" height="25" alt="bitcoin">-кошелька, 
@@ -45,7 +51,7 @@
 										<br> 
 										<br><b>1.</b> Перейди на сайт <img src="../images1/payment/btc ico.jpg" height="25" alt="bitcoin">-обменника <a href="https://1wm.kz/xchange_CARDRUB_to_BTC/" target="_blank"><img src="../images1/payment/1wm.jpg" height="40">(сайт обменника откроется в новой вкладке)</a>, 
 										выбери "Отдаёте"-<img src="../images1/payment/VISA 1WM.jpg" height="35" alt="bitcoin"> 
-										введи сумму в рублях - <b>1470</b> рублей.
+										введи сумму в рублях - <b>1930</b> рублей.
 										<br>
 										<br> 
 										<b>2.</b> В разделе ""Получаете"  выбери BITCOIN BTC.
@@ -73,16 +79,14 @@
                         </p>									
 										<section  id="registrationform2"  class="description_content">
 
-										<h2><p>2. Заполни поля заявки и впиши в неё данные твоего платежа</p></h2>
-
-									 	</section>										
-											
+										<h2><p>Заполни поля заявки и впиши в неё данные твоего платежа</p></h2>
+									 	</section>
 											<div class="text-content container"> 
-               							<div class="col-md-3">              
-														<p class="desc-text"> 
+                							<div class="col-md-3">              
+														<p class="desc-text">                                           
 																	<br>                                          
                                                    <input type="text" name="first_name" id="first_name" required="required" class="form" placeholder="Твой псевдоним:)" >
-                                                   <input type="text" name="phone" id="phone" required="required" class="form" placeholder="Телефон для связи (желательно)" >                  
+                                                   <input type="text" name="phone" id="phone" required="required" class="form" placeholder="Телефон для связи (желательно)" >                 
                 							</div>
                 							<div class="col-md-3">
 															<p class="desc-text">															
@@ -91,7 +95,7 @@
 														 	<br> 	<button type="submit" id="submit" name="submit" onclick="javascript:window.location='5finish_MEW.html'" class="text-center form-btn form-btn">Отправить</button>                                                
 
 												</div>
-            							</div>											
+            							</div>												
 											
                             <br>
                             <br>                              

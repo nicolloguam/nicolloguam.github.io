@@ -378,6 +378,24 @@ INTRO CONTAINER
     background-position: center;
     background-attachment: fixed;
 }
+.reservationdoublerelax.background_content{
+    background: url('../images1/wide picture/in use/massage relax 2+1.jpg') no-repeat center center; 
+    background-size: contain;
+    background-position: center;
+    background-attachment: fixed;
+}
+.reservationdoubleero.background_content{
+    background: url('../images1/wide picture/in use/eromassage 2+1.jpeg') no-repeat center center; 
+    background-size: contain;
+    background-position: center;
+    background-attachment: fixed;
+}
+.reservationdoubleero2.background_content{
+    background: url('../images1/wide picture/in use/eromassage 2+2.jpeg') no-repeat center center; 
+    background-size: contain;
+    background-position: center;
+    background-attachment: fixed;
+}
 /*========================
 DESCRIPTION BODY CONTENT
 =========================*/
