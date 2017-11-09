@@ -277,18 +277,18 @@ INTRO CONTAINER
 .beer.background_content{
     background: url('../images1/wide picture/in use/for whom.jpg') no-repeat center center; 
     background-size: cover;
-    background-position: 70% 70%;
+    background-position: 50% 50%;
 }
 
 .whatwaits.background_content{
     background: url('../images/bread.jpg') no-repeat center center; 
     background-size: cover;
-    background-position: 70% 50%;
+    background-position: 50% 50%;
 }
  .featured.background_content{
     background: url('../images1/wide picture/in use/3f.jpg') no-repeat center center; 
     background-size: contain;
-    background-position: 70% 70%;
+    background-position: 50% 50%;
     <!--background-position: center;-->
     <!--background-attachment: fixed;-->
 }
