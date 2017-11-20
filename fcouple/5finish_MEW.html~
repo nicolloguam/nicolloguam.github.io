@@ -25,9 +25,14 @@
 										<br>
 										<br>Хорошего вам окончания рабочей недели! 
 										<br>Не уставайте сильно! Вы нужны нам свеженькие;)	
-										</p>
 										<br>
 										<br>
+										<br>Хочешь еще чего-нибудь?;)
+										<br>
+										<br>
+										<input type="button" value="Да:)" onclick="javascript:window.location='3additional_purchase_PAYMENT_MEW.html#registrationformmm'"></p>	
+										<br>										
+                       			<img src="../images1/wide picture/in use/3+1.2.jpg" width="100%">	
 										<br>
 										<br>										
                        			<img src="../images1/wide picture/in use/3+1.2.jpg" width="100%">										
